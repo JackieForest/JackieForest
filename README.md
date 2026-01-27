@@ -17,7 +17,7 @@
 <ul style="list-style-type: none; text-align: left; margin-left: 40px;">
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" height="20" alt="Telescope" /> 
-    I'm interested in <b>Multimodal Intelligence</b>, <b>Large Language Models</b> and <b>Time Series Modeling</b>.
+    I'm interested in <b>Multimodal Intelligence</b>, <b>Vision Language Models</b> and <b>Time Series Modeling</b>.
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="20" height="20" alt="Rocket" /> 
@@ -25,7 +25,7 @@
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="20" height="20" alt="Link" /> 
-    I'm looking to collaborate on research projects in AI, particularly in Large Language Models and Multimodal Systems
+    I'm looking to collaborate on research projects in AI, particularly in Vision Language Models and Multimodal Systems
   </li>
   <li>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="20" height="20" alt="Envelope" /> 
