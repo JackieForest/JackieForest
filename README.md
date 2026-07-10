@@ -43,7 +43,7 @@
 
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JackieLin0123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3498db&icon_color=3498db&text_color=FFFFFF" width="52%" alt="JackieLin0123's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JackieForest&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3498db&icon_color=3498db&text_color=FFFFFF" width="52%" alt="JackieLin0123's GitHub stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackieLin0123&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=3498db" width="36%" alt="JackieLin0123's Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackieForest&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=3498db" width="36%" alt="JackieLin0123's Most used languages" />
 </div>
