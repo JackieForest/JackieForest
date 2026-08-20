@@ -18,8 +18,7 @@
 
 <li>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" height="20" />
-I am interested in <b>Multimodal Intelligence</b>, <b>Vision-Language Models</b>, 
-<b>LLM/VLM Post-Training</b>, and <b>Reinforcement Learning</b>.
+I am interested in <b>Multimodal Intelligence</b>, <b>LLM/VLM Post-Training</b>, and <b>Embodied AI</b>.
 </li>
 
 <li>
@@ -29,20 +28,8 @@ and previously studied <b>Software Engineering (Machine Intelligence Track)</b> 
 </li>
 
 <li>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" height="20" />
-I have research experience at <b>OpenDataLab, Shanghai Artificial Intelligence Laboratory</b>, 
-focusing on multimodal reasoning and the post-training pipeline of large foundation models.
-</li>
-
-<li>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" height="20" />
-My research focuses on the full lifecycle of model post-training, including 
-<b>data construction, supervised fine-tuning (SFT), reinforcement learning (RL), and multi-teacher distillation</b>.
-</li>
-
-<li>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="20" height="20" />
-How to reach me: <b>jklin7918@gmail.com</b>
+How to reach me: <b>jklin7918@gmail.com</b> or <b>linjuekai@zju.edu.cn</b>
 </li>
 
 </ul>
@@ -53,8 +40,7 @@ How to reach me: <b>jklin7918@gmail.com</b>
 </h2>
 
 <p align="center">
-  Multimodal Intelligence • Vision-Language Models • Post-Training • 
-  Reinforcement Learning • Data-Centric AI
+  Multimodal Intelligence • Vision-Language Models • Post-Training • Embodied AI
 </p>
 
 
