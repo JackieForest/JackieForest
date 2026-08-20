@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Research-Multimodal%20AI-blue?style=flat-square" alt="Research" />
-  <img src="https://img.shields.io/badge/Focus-Vision--Language%20Models-green?style=flat-square" alt="Focus" />
   <img src="https://img.shields.io/badge/Location-China-red?style=flat-square" alt="Location" />
 </p>
 
