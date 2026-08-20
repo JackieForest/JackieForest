@@ -33,12 +33,3 @@ How to reach me: <b>jklin7918@gmail.com</b> or <b>linjuekai@zju.edu.cn</b>
 </li>
 
 </ul>
-
-
-<h2 align="center">
-  🔬 Research Interests
-</h2>
-
-<p align="center">
-  Multimodal Intelligence • Vision-Language Models • Post-Training • Embodied AI
-</p>
