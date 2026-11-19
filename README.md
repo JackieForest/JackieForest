@@ -17,7 +17,7 @@
 
 <li>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="20" height="20" />
-I am interested in <b>Multimodal Intelligence</b>, <b>LLM/VLM Post-Training</b>, and <b>Embodied AI</b>.
+I am interested in <b>Multimodal Intelligence</b>, <b>LLM/VLM Post-Training</b>, and <b>Agentic AI</b>.
 </li>
 
 <li>
